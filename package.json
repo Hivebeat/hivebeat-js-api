@@ -1,0 +1,19 @@
+{
+  "name": "@hivebeat/hivebeat-js-api",
+  "version": "0.0.1",
+  "description": "Javascrip client for Hivebeat api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hivebeat/hivebeat-js-api.git"
+  },
+  "author": "Hivebeat",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Hivebeat/hivebeat-js-api/issues"
+  },
+  "homepage": "https://github.com/Hivebeat/hivebeat-js-api#readme"
+}
